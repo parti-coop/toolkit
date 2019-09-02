@@ -10,7 +10,7 @@ module.exports = {
         children: [
           ['/', '소개'],
           ['/campaigner.html', '캠페이너 인생 게임'],
-          ['/community101.html', '커뮤니티101'],
+          ['/community101.html', '커뮤니티101(작업 중)'],
         ]
       }
     ]
