@@ -9,8 +9,8 @@ module.exports = {
         collapsable: true,
         children: [
           ['/', '소개'],
-          ['/campaigner.html', '캠페이너 인생 게임'],
-          ['/community101.html', '커뮤니티101(작업 중)'],
+          ['/campaigner.html', '캠페이너 인생게임'],
+          ['/community101.html', '커뮤니티 101 (작업 중)'],
         ]
       }
     ]

@@ -128,29 +128,31 @@ _[예시] 청소년과 함께 한 캠페이너 인생게임에서 활용한 주�
     * _“이제 캠페이너 인생게임로서 성공한 캠페인을 발표하도록 하겠습니다.  팀이 발표되면 그 팀은 자리에서 일어나주시고, 그 팀에 서명한 분들도 일어나주세요. 그럼 첫 번째 팀입니다. 0000 팀. 그리고 그 팀을 지지한 시민 여러분 일어나주세요. 큰 박수 쳐주세요.”_ 
 * 성공팀 발표가 끝나면 모든 플레이어가 서로에게 박수를 쳐주며 격려하면서 게임을 마칩니다.
 
-## 후속 메일 + 캠페인 공유하기
+## 후속 활동하기 
+#### 감사메일 + 캠페인 공유하기
 게임의 여운이 다 가시기 전에 인상적이었던 순간과 사진을 참석자들에게 감사의 마음을 담아 메일을 보내보세요. 또 캠페인을 시작하는 한 가지 방법으로 가브크래프트를 소개하고, 가브크래프트에서 각자 만든 캠페인을 공유해봐도 좋겠죠?
 
 [가브크래프트에서 캠페인 만들기](http://govcraft.org)
 
-## 캠페이너 인생게임 사례를 글로 만나보세요
-#### 2019 아름다운재단 나눔교육 반디 청소년 워크숍 후기
-* 청소년 100명, 캠페이너가 되다! 
-* 게임의 룰에 캠페이너의 인생을 담다 
-#### 2018 NPO 국제 컨퍼런스 워크숍 후기
-* 100분간의 짜릿한 인생게임.beta! 
+## 참고 자료 
 
-## 템플릿 
+### 캠페이너 인생게임 사례를 글로 만나보세요
+#### 2019 아름다운재단 나눔교육 반디 청소년 워크숍 후기
+* [청소년 100명, 캠페이너가 되다!](https://medium.com/parti-xyz-developers/%EC%B2%AD%EC%86%8C%EB%85%84-100%EB%AA%85-%EC%BA%A0%ED%8E%98%EC%9D%B4%EB%84%88%EA%B0%80-%EB%90%98%EB%8B%A4-c1e9c04353fb) 
+* [게임의 룰에 캠페이너의 인생을 담다](https://medium.com/search?q=%EC%BA%A0%ED%8E%98%EC%9D%B4%EB%84%88%20%EC%9D%B8%EC%83%9D%EA%B2%8C%EC%9E%84)
+#### 2018 NPO 국제 컨퍼런스 워크숍 후기
+* [100분간의 짜릿한 인생게임.beta!](https://medium.com/parti-xyz-developers/100%EB%B6%84%EA%B0%84%EC%9D%98-%EC%A7%9C%EB%A6%BF%ED%95%9C-%EC%9D%B8%EC%83%9D%EA%B2%8C%EC%9E%84-beta-2b2cea01f2d6) 
+
+### 템플릿 
 자유롭게 다운받아 사용하실 수 있습니다.
 * [툴킷 템플릿 구글드라이브](https://drive.google.com/drive/folders/1ANHqASylWkkVqbQ9--sfsDvmQbqt0x29?usp=sharing)
 * [진행 프레젠테이션](https://docs.google.com/presentation/d/1uoCQ_YpFTSVtN2xfLRj-AZYYtwvKaq9ZQTy2PMaXtNY/edit?usp=sharing)
 * [룰북(rule book)](https://docs.google.com/document/d/1jCLmx0MJA6CSVPIbYe0REbaSCtZ9cQMEqBn0uJ11k_s/edit#heading=h.xrkbbbfapi1f)
 * [빠띠 캠페인 템플릿](https://docs.google.com/presentation/d/1jGtZTxHbbFriw9JI_JhuT4oFieDpqqgAyHS_-RcRYSI/edit?usp=sharing)
  
-## 빠띠는?
+### 빠띠는?
 빠띠는 디지털 기술을 활용해 민주주의를 혁신하고, 사회의 여러 영역으로 혁신적인 민주주의를 확산시키기 위해 툴킷, 플랫폼, 커뮤니티를 만들고 보급하는 민주주의 활동가 그룹입니다.
 
 * 이메일 contact@parti.xyz
 * 홈페이지 [http://parti.coop/](http://parti.coop/)
 * 페이스북 [https://www.facebook.com/PartiUnion/](https://www.facebook.com/PartiUnion/)
-* 인스타그램 
