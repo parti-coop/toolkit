@@ -3,14 +3,22 @@ module.exports = {
   description: '더나은 민주주의를 위한 툴킷',
   themeConfig: {
     logo: '/assets/img/parti_ci.png',
+    nav: [
+      { text: 'Github', link: 'https://github.com/parti-coop/toolkit' },
+    ],
     sidebar: [
       {
-        title: '목차',
-        collapsable: true,
+        title: '커뮤니티',
+        collapsable: false,
         children: [
-          ['/', '소개'],
-          ['/campaigner.html', '캠페이너 인생게임'],
-          ['/community101.html', '커뮤니티 101 (작업 중)'],
+          ['/community/community101.html', '커뮤니티 101'],
+        ]
+      },
+      {
+        title: '캠페인',
+        collapsable: false,
+        children: [
+          ['/campaign/campaigner.html', '캠페이너 인생게임'],
         ]
       }
     ]
