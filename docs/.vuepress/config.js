@@ -4,6 +4,7 @@ module.exports = {
   themeConfig: {
     logo: '/assets/img/parti_ci.png',
     nav: [
+      { text: '기여하기', link: '/contributing.html' },
       { text: 'Github', link: 'https://github.com/parti-coop/toolkit' },
     ],
     sidebar: [
