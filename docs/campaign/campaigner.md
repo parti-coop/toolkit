@@ -149,6 +149,14 @@ _[예시] 청소년과 함께 한 캠페이너 인생게임에서 활용한 주�
 * [진행 프레젠테이션](https://docs.google.com/presentation/d/1uoCQ_YpFTSVtN2xfLRj-AZYYtwvKaq9ZQTy2PMaXtNY/edit?usp=sharing)
 * [룰북(rule book)](https://docs.google.com/document/d/1jCLmx0MJA6CSVPIbYe0REbaSCtZ9cQMEqBn0uJ11k_s/edit#heading=h.xrkbbbfapi1f)
 * [빠띠 캠페인 템플릿](https://docs.google.com/presentation/d/1jGtZTxHbbFriw9JI_JhuT4oFieDpqqgAyHS_-RcRYSI/edit?usp=sharing)
+
+
+
+### 피드백 환영합니다!
+이 툴킷을 계기로, 더 많은 방식의 캠페인 워크숍을 만나게 되길 기대합니다. 툴킷을 적용한 사례, 개선 아이디어나 피드백을 환영합니다. 더 직접적으로 이 툴킷을 개선해나가는 프로젝트나 협업도 가능합니다. 🤝
+툴킷을 사용하는 데 의견이나 궁금하신 점이 있다면 언제든지 메일(help@parti.xyz)을 보내주세요! 😀
+* 메일 help@parti.xyz 
+
  
 ### 빠띠는?
 빠띠는 디지털 기술을 활용해 민주주의를 혁신하고, 사회의 여러 영역으로 혁신적인 민주주의를 확산시키기 위해 툴킷, 플랫폼, 커뮤니티를 만들고 보급하는 민주주의 활동가 그룹입니다.
