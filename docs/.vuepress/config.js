@@ -21,7 +21,9 @@ module.exports = {
         children: [
           ['/campaign/campaigner.html', '캠페이너 인생게임'],
         ]
-      }
+      },
+      ['https://townhall.kr/toolkits', '빠띠 타운홀 툴킷'],
+      ['http://demosx.org/', '데모스X 운영가이드'],
     ]
   }
 }

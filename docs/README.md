@@ -4,14 +4,10 @@
 
 ### 툴킷 목록 
 
-#### 캠페인
-* 게임처럼 캠페인을 만들어보는 **[캠페이너 인생게임](/campaign/campaigner.html)** 
+#### [캠페이너 인생게임](/campaign/campaigner.html)
 
-#### 커뮤니티
-* 커뮤니티의 기초를 다지는 **[커뮤니티 101](/community/community101.html)**
+#### [커뮤니티 101](/community/community101.html)
 
-#### 공론장
-* 참가자가 적극적으로 논의하고 동참하는 행사를 위한 **[빠띠 타운홀 툴킷](https://townhall.kr/toolkits)** 
+#### [빠띠 타운홀 툴킷](https://townhall.kr/toolkits)
 
-#### 시민참여 플랫폼
-* 오픈소스 시민참여 플랫폼 **[데모스X 운영가이드](http://demosx.org/)**
+#### [데모스X 운영가이드](http://demosx.org/)
