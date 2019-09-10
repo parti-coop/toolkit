@@ -11,3 +11,6 @@
 #### [빠띠 타운홀 툴킷](https://townhall.kr/toolkits)
 
 #### [데모스X 운영가이드](http://demosx.org/)
+
+### 문의하기
+툴킷을 사용하는 데 의견이나 궁금하신 점이 있다면 언제든지 [메일 help@parti.xyz](mailto:help@parti.xyz)을 보내주세요! 😀

@@ -24,6 +24,7 @@ module.exports = {
       },
       ['https://townhall.kr/toolkits', '빠띠 타운홀 툴킷'],
       ['http://demosx.org/', '데모스X 운영가이드'],
+      ['mailto:help@parti.xyz', '문의하기'], 
     ]
   }
 }
