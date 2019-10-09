@@ -13,6 +13,7 @@ module.exports = {
         collapsable: false,
         children: [
           ['/community/community101.html', '커뮤니티 101'],
+          ['/community/org101.html', '항해하는 조직 101'],
         ]
       },
       {
