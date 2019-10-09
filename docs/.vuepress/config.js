@@ -14,6 +14,7 @@ module.exports = {
         children: [
           ['/community/community101.html', '커뮤니티 101'],
           ['/community/org101.html', '항해하는 조직 101'],
+          ['/community/diy-party101.html', 'DIY 정당 101'],
         ]
       },
       {
