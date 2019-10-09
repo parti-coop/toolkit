@@ -21,6 +21,7 @@ module.exports = {
         title: '캠페인',
         collapsable: false,
         children: [
+          ['/campaign/campaign101.html', '캠페인 101'],
           ['/campaign/campaigner.html', '캠페이너 인생게임'],
         ]
       },
