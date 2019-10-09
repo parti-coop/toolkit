@@ -26,8 +26,15 @@ module.exports = {
         ]
       },
       ['http://demosx.org/', '시민 참여 플랫폼 가이드'],
-      ['/soft/groups.html', '빠띠 그룹스 가이드'],
-      ['/soft/townhall.html', '빠띠 타운홀 가이드'],
+      {
+        title: '플랫폼 가이드',
+        collapsable: false,
+        children: [
+          ['/soft/groups.html', '빠띠 그룹스'],
+          ['/soft/townhall.html', '빠띠 타운홀'],
+          ['http://demosx.org/', '빠띠 데모스X']
+        ]
+      },
       ['/tips.html', '기타 유용한 팁'],
       ['/lab.html', '빠띠의 실험들'],
       ['mailto:help@parti.xyz', '문의하기'], 
