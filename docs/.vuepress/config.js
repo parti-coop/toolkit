@@ -27,6 +27,7 @@ module.exports = {
       },
       ['http://demosx.org/', '시민 참여 플랫폼'],
       ['https://townhall.kr/toolkits', '빠띠 타운홀 툴킷'],
+      ['/tips.html', '기타 유용한 팁'],
       ['/lab.html', '빠띠의 실험들'],
       ['mailto:help@parti.xyz', '문의하기'], 
     ]
