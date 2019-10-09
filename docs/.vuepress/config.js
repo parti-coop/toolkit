@@ -25,8 +25,9 @@ module.exports = {
           ['/campaign/campaigner.html', '캠페이너 인생게임'],
         ]
       },
+      ['http://demosx.org/', '시민 참여 플랫폼'],
       ['https://townhall.kr/toolkits', '빠띠 타운홀 툴킷'],
-      ['http://demosx.org/', '데모스X 운영가이드'],
+      ['/lab.html', '빠띠의 실험들'],
       ['mailto:help@parti.xyz', '문의하기'], 
     ]
   }
