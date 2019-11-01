@@ -142,3 +142,5 @@
 * 페이스북 [https://www.facebook.com/PartiUnion/](https://www.facebook.com/PartiUnion/)
 
 > 툴킷을 수정하거나 기여하고 싶다면 [기여하기](/contributing.html) 페이지를 보세요.
+
+> 현재 페이지 [![](/assets/img/GitHub-Mark-32px.png)Github에서 바로 기여하기](https://github.com/parti-coop/toolkit/edit/master/docs/community/community101.md)
