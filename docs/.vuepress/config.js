@@ -8,6 +8,7 @@ module.exports = {
       { text: 'Github', link: 'https://github.com/parti-coop/toolkit' },
     ],
     sidebar: [
+      ['/', '툴킷 소개'],
       {
         title: '커뮤니티 가이드',
         collapsable: false,
