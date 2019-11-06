@@ -9,10 +9,9 @@
 **문의**: [contact@demosx.org](mailto:contact@demosx.org)
 
 **지원**
-![](images/-X-v10.png "image_tooltip")
+
+![](/assets/demos/1.행안부로고.jpg)
 
 **제작**
 
-![](images/-X-v11.png "image_tooltip")
-
-![](images/-X-v12.png "image_tooltip")
+![](/assets/demos/2.서울특별시빠띠로고.PNG)
