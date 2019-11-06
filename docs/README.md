@@ -10,7 +10,7 @@
 
 #### [빠띠 타운홀 툴킷](/soft/townhall)
 
-#### [데모스X 운영가이드](/demox/)
+#### [데모스X 운영가이드](/demosx/)
 
 ### 문의하기
 툴킷을 사용하는 데 의견이나 궁금하신 점이 있다면 언제든지 [메일 help@parti.xyz](mailto:help@parti.xyz)을 보내주세요! 😀
