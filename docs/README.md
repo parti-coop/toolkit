@@ -14,3 +14,5 @@
 
 ### 문의하기
 툴킷을 사용하는 데 의견이나 궁금하신 점이 있다면 언제든지 [메일 help@parti.xyz](mailto:help@parti.xyz)을 보내주세요! 😀
+
+> 툴킷을 수정하거나 기여하고 싶다면 [기여하기](/contributing.html) 페이지를 보세요.

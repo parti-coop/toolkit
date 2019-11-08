@@ -147,5 +147,3 @@
 ### 주의할 점 
 * 이 시간은 안전한 공간과 분위기에서 진행합니다. 그렇지 않으면, 사소하지만 중요한 이야기가 나오지 않을 수도 있어요.
 ### 사례
-* [일인당이 초밥을 표시하게 된 이유](https://medium.com/parti-xyz-developers/%EC%9D%BC%EC%9D%B8%EB%8B%B9%EC%9D%B4-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%9D%BC%EC%9D%84-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%A7%8C%ED%81%BC%EB%A7%8C-%ED%95%98%EB%8A%94-%EB%B2%95-1d53b34b19e4)
-* [금요일엔 빠띠 실험실](https://medium.com/parti-xyz-developers/%EA%B8%88%EC%9A%94%EC%9D%BC%EC%97%94-%EB%B9%A0%EB%9D%A0-%EC%8B%A4%ED%97%98%EC%8B%A4-3daa8fe416bc)
