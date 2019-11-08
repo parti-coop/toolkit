@@ -151,4 +151,3 @@
 * [​페미니스트 주권자 선언​](https://campaigns.kr/events/9)
 * [​하야GO](https://campaigns.kr/events/2)
 
-> 툴킷을 수정하거나 기여하고 싶다면 [기여하기](/contributing.html) 페이지를 보세요.

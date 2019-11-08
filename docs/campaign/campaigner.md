@@ -164,5 +164,3 @@ _[예시] 청소년과 함께 한 캠페이너 인생게임에서 활용한 주�
 * 이메일 contact@parti.xyz
 * 홈페이지 [http://parti.coop/](http://parti.coop/)
 * 페이스북 [https://www.facebook.com/PartiUnion/](https://www.facebook.com/PartiUnion/)
-
-> 툴킷을 수정하거나 기여하고 싶다면 [기여하기](/contributing.html) 페이지를 보세요.
