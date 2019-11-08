@@ -168,5 +168,3 @@
 ![](/assets/img/townhall-citizen-1.jpg) *[여시재 "혁신의 편 - 혁신가 100명이 정책을 제안하고 대선 캠프가 답하다"](https://www.yeosijae.org/posts/157?project_id=18&topic_id=1) 여시재   2017.04.25*
 
 ![](/assets/img/townhall-citizen-2.jpg) *[성남 청년정책토론회 "그대화 함께 재밌수다"](https://www.facebook.com/PartiUnion/posts/1202312299875497) 빠띠 페이스북   2017.9.24*
-
-> 툴킷을 수정하거나 기여하고 싶다면 [기여하기](/contributing.html) 페이지를 보세요.
