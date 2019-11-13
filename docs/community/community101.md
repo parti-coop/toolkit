@@ -14,6 +14,8 @@
 ### 이 가이드에 기여한 사람들
 이 가이드의 초안은 @그림, @복순, @최지 의 아이디어와 기여로 작성되었습니다. 
 
+### 이 툴킷을 활용한 워크숍
+* 2019 활동가 이야기 주간 '이슈 커뮤니티를 시작하고 지속하기' (2019.11.8.) [기록](https://docs.google.com/document/d/1yTOO4Hcu3Q3u0yAakS8GvBVglRhL5eqJbWbRODX4WwE/edit?usp=sharing)
 --- 
 
 # 체크리스트
