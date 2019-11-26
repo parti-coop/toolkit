@@ -13,7 +13,7 @@ module.exports = {
         title: "커뮤니티 가이드",
         collapsable: false,
         children: [
-          ["/community/community101", "커뮤니티 101"],
+          ["/community/community101", "소셜이슈 커뮤니티 101"],
           ["/community/org101", "항해하는 조직 101"],
           ["/community/diy-party101", "DIY 정당 101"]
         ]
