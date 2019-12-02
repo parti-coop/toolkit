@@ -27,13 +27,12 @@ module.exports = {
         ]
       },
       {
-        title: "플랫폼 가이드",
+        title: "시민참여플랫폼 데모스X 운영가이드",
         collapsable: false,
         children: [
-          ["/soft/groups", "빠띠 그룹스"],
-          ["/soft/townhall", "빠띠 타운홀"],
+          ["/workshop/workshop", "시민참여 워크숍"],
           {
-            title: "시민 참여 플랫폼 데모스X 운영가이드 1.1",
+            title: "시민참여플랫폼 데모스X 운영가이드",
             collapsable: true,
             children: [
               ["/demosx/", "0. 후원제작"],
@@ -47,6 +46,14 @@ module.exports = {
               ["/demosx/roadmap", "8. 데모스X 의 로드맵"]
             ]
           }
+        ]
+      },
+      {
+        title: "플랫폼 가이드",
+        collapsable: false,
+        children: [
+          ["/soft/groups", "빠띠 그룹스"],
+          ["/soft/townhall", "빠띠 타운홀"]
         ]
       },
       ["/tips", "기타 유용한 팁"],
