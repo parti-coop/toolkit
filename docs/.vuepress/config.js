@@ -29,13 +29,15 @@ module.exports = {
       {
         title: "시민참여플랫폼 데모스X 운영가이드",
         collapsable: false,
+
         children: [
-          ["/workshop/workshop", "시민참여 워크숍"],
+          // ["/workshop/workshop", "시민참여 워크숍"],
           {
             title: "시민참여플랫폼 데모스X 운영가이드",
+            path: "/demosx/",
             collapsable: true,
             children: [
-              ["/demosx/", "0. 후원제작"],
+              // ["/demosx/", "0. 후원제작"],
               ["/demosx/intro", "1. 들어가며"],
               ["/demosx/planning", "2. 운영 계획 세우기"],
               ["/demosx/civic_proposal", "3. 시민제안 단계"],
