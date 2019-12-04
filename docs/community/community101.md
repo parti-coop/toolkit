@@ -16,6 +16,7 @@
 
 ### 이 툴킷을 활용한 워크숍
 * 2019 활동가 이야기 주간 '이슈 커뮤니티를 시작하고 지속하기' (2019.11.8.) [기록](https://docs.google.com/document/d/1yTOO4Hcu3Q3u0yAakS8GvBVglRhL5eqJbWbRODX4WwE/edit?usp=sharing)
+* 대전광역시NGO지원센터 '지역에서 일상의 공론장 만들기' (2019.11.25) [기록](https://docs.google.com/document/d/1tEaYRyZd-InoU8h4RCVkjxMmMLUAQQGvfOpReYLGwp8/edit?usp=sharing)
 --- 
 
 # 체크리스트
