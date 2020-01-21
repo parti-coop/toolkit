@@ -37,7 +37,7 @@ module.exports = {
             path: "/demosx/",
             collapsable: true,
             children: [
-              // ["/demosx/", "0. 후원제작"],
+              ["/demosx/", "0. 운영가이드 1.1"],
               ["/demosx/intro", "1. 들어가며"],
               ["/demosx/planning", "2. 운영 계획 세우기"],
               ["/demosx/civic_proposal", "3. 시민제안 단계"],
