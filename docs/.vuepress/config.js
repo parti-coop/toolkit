@@ -32,7 +32,7 @@ module.exports = {
 
         children: [
           {
-            title: "시민참여플랫폼 데모스X 운영가이드",
+            title: "데모스X 운영가이드",
             path: "/demosx/",
             collapsable: true,
             children: [
