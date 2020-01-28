@@ -50,7 +50,7 @@ module.exports = {
         ]
       },
       {
-        title: "공론장",
+        title: "공론장 가이드",
         collapsable: false,
         children: [
           ["/sphere/workshop", "시민제안 워크숍"]
