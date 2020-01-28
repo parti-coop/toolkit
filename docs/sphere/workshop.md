@@ -297,7 +297,7 @@
 [민주주의 서울 2018 결산리포트 : 워크숍 부분](https://medium.com/parti-xyz-developers/%EC%8B%9C%EB%AF%BC%EC%9D%98-%EC%9D%BC%EC%83%81%EC%97%90%EC%84%9C-%EC%A0%95%EC%B1%85%EC%9D%84-%EA%B8%B8%EC%96%B4-%EC%98%AC%EB%A6%BD%EB%8B%88%EB%8B%A4-51a14f0e961e)  
 [민주주의 서울 2019 블로깅 : 워크숍 부분](https://medium.com/parti-xyz-developers/2%ED%99%94-%EB%AF%BC%EC%84%9C%EC%99%80%EC%9D%98-%EB%A7%8C%EB%82%A8-%EC%84%9C%EC%9A%B8-%EC%A0%9C%EC%95%88%EA%B0%80-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%9D%BC%EC%83%81%EC%9D%84-%EB%93%A4%EB%A0%A4%EC%A4%98-d93ebc04aa0e)
 
-### 빠띠는?
+## 빠띠는?
 빠띠는 디지털 기술을 활용해 민주주의를 혁신하고, 사회의 여러 영역으로 혁신적인 민주주의를 확산시키기 위해 툴킷, 플랫폼, 커뮤니티를 만들고 보급하는 민주주의 활동가 그룹입니다.
 
 * 이메일 contact@parti.xyz
