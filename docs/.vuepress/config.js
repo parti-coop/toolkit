@@ -31,7 +31,6 @@ module.exports = {
         collapsable: false,
 
         children: [
-          // ["/workshop/workshop", "시민참여 워크숍"],
           {
             title: "시민참여플랫폼 데모스X 운영가이드",
             path: "/demosx/",
@@ -48,6 +47,15 @@ module.exports = {
               ["/demosx/roadmap", "8. 데모스X 의 로드맵"]
             ]
           }
+        ]
+      },
+      {
+        title: "공론장",
+        collapsable: false,
+        children: [
+          ["/sphere/workshop", "시민제안 워크숍"]
+          // ,["/sphere/agenda", "의제선정단"]
+          // ,["/sphere/debate", "열린토론회"]
         ]
       },
       {
