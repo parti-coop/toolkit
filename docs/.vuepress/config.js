@@ -53,8 +53,8 @@ module.exports = {
         title: "공론장 가이드",
         collapsable: false,
         children: [
-          ["/sphere/workshop", "시민제안 워크숍"]
-          // ,["/sphere/agenda", "의제선정단"]
+          ["/sphere/workshop", "시민제안 워크숍"],
+          ["/sphere/agenda", "의제 선정 및 기획"]
           // ,["/sphere/debate", "열린토론회"]
         ]
       },
