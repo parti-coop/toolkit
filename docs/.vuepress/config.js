@@ -54,7 +54,8 @@ module.exports = {
         collapsable: false,
         children: [
           ["/sphere/workshop", "시민제안 워크숍"],
-          ["/sphere/agenda", "의제 선정 및 기획"]
+          ["/sphere/agenda", "의제 선정 및 기획"],
+          ["/sphere/suggestion", "찾아가는 시민제안"]
           // ,["/sphere/debate", "열린토론회"]
         ]
       },
