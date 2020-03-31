@@ -11,7 +11,7 @@ module.exports = {
       ["/", "툴킷 소개"],
       {
         title: "협력적 커뮤니티 툴킷",
-        path: "/community/readme",
+        path: "/community/",
         collapsable: false,
         children: [
           ["/community/community101", "소셜이슈 커뮤니티 101"],
