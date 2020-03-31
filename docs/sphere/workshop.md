@@ -306,7 +306,7 @@
 ## 빠띠는?
 빠띠는 디지털 기술을 활용해 민주주의를 혁신하고, 사회의 여러 영역으로 혁신적인 민주주의를 확산시키기 위해 툴킷, 플랫폼, 커뮤니티를 만들고 보급하는 민주주의 활동가 그룹입니다.
 
-* 이메일 contact@parti.xyz
+* 이메일 contact@parti.coop
 * 홈페이지 [http://parti.coop/](http://parti.coop/)
 * 페이스북 [https://www.facebook.com/PartiUnion/](https://www.facebook.com/PartiUnion/)
 
