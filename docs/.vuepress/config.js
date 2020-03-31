@@ -16,7 +16,8 @@ module.exports = {
           ["/community/community101", "소셜이슈 커뮤니티 101"],
           ["/community/decision-making", "협력적 의사결정 툴킷"],
           ["/community/org101", "항해하는 조직 101"],
-          ["/community/diy-party101", "DIY 정당 101"]
+          ["/community/diy-party101", "DIY 정당 101"],
+          ["/community/online", "온라인 회의에 집중하기"]
         ]
       },
       {
