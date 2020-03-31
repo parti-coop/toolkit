@@ -10,7 +10,8 @@ module.exports = {
     sidebar: [
       ["/", "툴킷 소개"],
       {
-        title: "커뮤니티 가이드",
+        title: "협력적 커뮤니티 툴킷",
+        path: "/community/readme",
         collapsable: false,
         children: [
           ["/community/community101", "소셜이슈 커뮤니티 101"],
