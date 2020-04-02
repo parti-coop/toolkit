@@ -141,6 +141,7 @@
 ## 커뮤니티 101, 그 다음은?
 ### 아래 툴킷들을 이용해 다음 스텝을 밟아보세요!
 👉커뮤니티의 소개, 활동, 참여방법을 만들고 싶다면? [커뮤니티 가이드 만들기](https://toolkit.parti.coop/community/guide101.html)
+
 👉커뮤니티의 행동강령을 만들고 싶다면? [커뮤니티 행동강령 세우기](https://toolkit.parti.coop/community/coc.html)
 
 ### 이 툴킷을 활용한 워크숍
