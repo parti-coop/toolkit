@@ -19,10 +19,9 @@
 
 참고 사례
 * [파이콘 한국 성명서(CoC)](https://www.pycon.kr/coc)
-* 밋고 커뮤니티 운영원칙
 * [BIYN 성평등 장치](https://docs.google.com/document/d/1_Jqn-23HC3KQefhaslzhMltHjMmZNASMk5ahCNdFxak/edit)
 * [일인당 그라운드룰](https://alone.parti.xyz/posts/27037)
-* [Citizen Code of Conduct](http://citizencodeofconduct.org
+* [Citizen Code of Conduct](http://citizencodeofconduct.org)
 * [Contributor Covenant](https://www.contributor-covenant.org/)
 
 
