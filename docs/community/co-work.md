@@ -179,7 +179,7 @@
 > * 새로운 핸드북이 필요할 때 파트나 페이지를 추가할 수 있게 만들어보세요.
 > 
 > 참고 
-> * 코로나19 코드포코리아 핸드북 
+> * [코로나19 코드포코리아 핸드북](https://hackmd.io/@6VWj8d9yQkKavs-wIUuzLQ/ry5TAjZr8#%ED%95%B8%EB%93%9C%EB%B6%81-%ED%99%9C%EC%9A%A9%EB%B2%95) 
 > * [커뮤니티 가이드 만들기 툴킷](https://toolkit.parti.coop/community/guide101.html)
 
 ## 함께 읽으면 좋은 글
