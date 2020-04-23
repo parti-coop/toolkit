@@ -2,11 +2,12 @@
   "name": "toolkit",
   "version": "1.0.0",
   "scripts": {
+    "start": "vuepress dev docs",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "vuepress": "1.0.3"
+    "vuepress": "1.4.0"
   },
   "devDependencies": {},
   "repository": {
