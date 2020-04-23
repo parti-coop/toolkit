@@ -84,6 +84,9 @@
 > - [ ] 참여하는 사람들이 모두 역할을 부여받았나요?
 > - [ ] 바로 다음 할 일과 기한, 역할을 정리했나요?
 
+## 이어서 읽으면 좋은 툴킷
+* [커뮤니티에서 협업하기](https://toolkit.parti.coop/community/co-work.html)
+
 ### 참고 
 *   버나크 해커톤 : 팀 역할, 비전, 걸림돌, 마일스톤 정하기 활동 
     [이 내용](https://butterknifecrew.parti.xyz/posts/30615) 을 정리해서 올려보면 좋을까요? -이레  
