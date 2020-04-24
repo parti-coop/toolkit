@@ -17,8 +17,9 @@ module.exports = {
           ["/community/community101", "커뮤니티 101"],
           ["/community/guide101", "커뮤니티 가이드 만들기"],
           ["/community/coc", "커뮤니티 행동강령 세우기"],
-          ["/community/decision-making", "협력적 의사결정 툴킷"],
-          ["/community/co-work", "커뮤니티에서 협업하기 툴킷"],
+          ["/community/decision-making", "협력적 의사결정"],
+          ["/community/cowork-start", "커뮤니티 활동 시작하기"],
+          ["/community/co-work", "커뮤니티에서 협업하기"],
           ["/community/org101", "항해하는 조직 101"],
           ["/community/diy-party101", "DIY 정당 101"]
         ]
