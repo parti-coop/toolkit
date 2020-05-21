@@ -15,6 +15,7 @@ module.exports = {
         collapsable: false,
         children: [
           ["/community/community101", "커뮤니티 101"],
+          ["/community/organizer", "커뮤니티 오거나이저 되기"],
           ["/community/guide101", "커뮤니티 가이드 만들기"],
           ["/community/coc", "커뮤니티 행동강령 세우기"],
           ["/community/decision-making", "협력적 의사결정"],
