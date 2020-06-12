@@ -30,7 +30,11 @@ module.exports = {
         title: "프로젝트 팀으로 커뮤니티 만들기",
         collapsable: false,
         children: [
-          ["/team-community/intro.md", "들어가며"]
+          ["/team-community/intro.md", "들어가며"],
+          ["/team-community/ready.md", "커뮤니티 준비하기"],
+          ["/team-community/communication.md", "커뮤니티 소통하기"],
+          ["/team-community/project.md", "프로젝트 공동작업하기"],
+          ["/team-community/program.md", "프로그램 함께 만들기"]
         ]
       },
       {
