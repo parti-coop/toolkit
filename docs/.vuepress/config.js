@@ -27,6 +27,13 @@ module.exports = {
         ]
       },
       {
+        title: "프로젝트 팀으로 커뮤니티 만들기",
+        collapsable: false,
+        children: [
+          ["/team-community/intro.md", "들어가며"]
+        ]
+      },
+      {
         title: "캠페인 가이드",
         collapsable: false,
         children: [
