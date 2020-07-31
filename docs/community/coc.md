@@ -18,7 +18,7 @@
 커뮤니티 행동강령은 참고할 수 있는 오픈소스가 많아서 처음부터 새로 작성하지 않아도 됩니다.  
 
 참고 사례
-* [파이콘 한국 성명서(CoC)](https://www.pycon.kr/coc)
+* [파이콘 한국 성명서(CoC)](https://www.pycon.kr/2020/about/coc/)
 * [BIYN 성평등 장치](https://docs.google.com/document/d/1_Jqn-23HC3KQefhaslzhMltHjMmZNASMk5ahCNdFxak/edit)
 * [일인당 그라운드룰](https://alone.parti.xyz/posts/27037)
 * [Citizen Code of Conduct](http://citizencodeofconduct.org)
