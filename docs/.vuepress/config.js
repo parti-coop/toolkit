@@ -84,7 +84,8 @@ module.exports = {
         collapsable: false,
         children: [
           ["/soft/groups", "빠띠 그룹스"],
-          ["/soft/townhall", "빠띠 타운홀"]
+          ["/soft/townhall", "빠띠 타운홀"],
+          ["/soft/mix", "빠띠 믹스"]
         ]
       },
       ["/tips", "기타 유용한 팁"],
