@@ -46,7 +46,7 @@ module.exports = {
         ]
       },
       {
-        title: "시민참여플랫폼 운영가이드",
+        title: "시민협력플랫폼 운영가이드",
         collapsable: false,
 
         children: [
