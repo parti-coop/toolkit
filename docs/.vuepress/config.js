@@ -65,7 +65,8 @@ module.exports = {
               ["/demosx/marketing", "7. 홍보 운영"],
               ["/demosx/roadmap", "8. 데모스X 의 로드맵"]
             ]
-          }
+          },
+          ["/demosx/libgovernance", "작은도서관 거버넌스 운영가이드"]
         ]
       },
       {
