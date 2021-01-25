@@ -833,7 +833,7 @@
 
 
 > 서울도서관과 빠띠는 작은도서관 거버넌스 구축사업의 내용을 담아 ‘함께 만드는 작은도서관’ 책자를 제작했습니다. 확인해보고 싶다면 아래 링크를 클릭하세요.
-> 👉[다운로드 받기](https://https://drive.google.com/file/d/1NckP8Cb-rDnNG7fcNgm8nvMPV-Du6QnK/view?usp=sharing)
+> 👉[다운로드 받기](https://drive.google.com/file/d/1NckP8Cb-rDnNG7fcNgm8nvMPV-Du6QnK/view?usp=sharing)
 
 ### [참고자료] 
 * 협력적 커뮤니티 툴킷
