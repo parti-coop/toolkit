@@ -7,11 +7,10 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "vuepress": "1.8.0"
-  },
-  "devDependencies": {
+    "vuepress": "1.8.0",
     "@vuepress/plugin-google-analytics": "^1.8.0"
   },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/parti-coop/toolkit.git"
