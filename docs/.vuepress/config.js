@@ -5,7 +5,7 @@ module.exports = {
     logo: "/assets/img/parti_ci.png",
     nav: [
       { text: "기여하기", link: "/contributing" },
-      { text: "Github", link: "https://github.com/parti-coop/toolkit" }
+      { text: "Github", link: "https://github.com/parti-coop/toolkit" },
     ],
     sidebar: [
       ["/", "툴킷 소개"],
@@ -23,8 +23,8 @@ module.exports = {
           ["/community/co-work", "커뮤니티에서 협업하기"],
           ["/community/decision-making", "협력적 의사결정"],
           ["/community/org101", "항해하는 조직 101"],
-          ["/community/diy-party101", "DIY 정당 101"]
-        ]
+          ["/community/diy-party101", "DIY 정당 101"],
+        ],
       },
       {
         title: "프로젝트 팀으로 커뮤니티 만들기",
@@ -34,21 +34,21 @@ module.exports = {
           ["/team-community/ready.md", "커뮤니티 준비하기"],
           ["/team-community/communication.md", "커뮤니티 소통하기"],
           ["/team-community/project.md", "프로젝트 공동작업하기"],
-          ["/team-community/program.md", "프로그램 함께 만들기"]
-        ]
+          ["/team-community/program.md", "프로그램 함께 만들기"],
+        ],
       },
       {
         title: "캠페인 가이드",
         collapsable: false,
         children: [
           ["/campaign/campaign101", "캠페인 101"],
-          ["/campaign/campaigner", "캠페이너 인생게임"]
-        ]
+          ["/campaign/campaigner", "캠페이너 인생게임"],
+        ],
       },
       {
         title: "시민협력플랫폼 운영가이드",
         collapsable: false,
-
+        initialOpenGroupIndex: 0,
         children: [
           {
             title: "데모스X 운영가이드",
@@ -63,11 +63,11 @@ module.exports = {
               ["/demosx/execution", "5. 실행"],
               ["/demosx/org_proposal", "6. 기관 제안"],
               ["/demosx/marketing", "7. 홍보 운영"],
-              ["/demosx/roadmap", "8. 데모스X 의 로드맵"]
-            ]
+              ["/demosx/roadmap", "8. 데모스X 의 로드맵"],
+            ],
           },
-          ["/demosx/libgovernance", "작은도서관 거버넌스 운영가이드"]
-        ]
+          ["/demosx/libgovernance", "작은도서관 거버넌스 운영가이드"],
+        ],
       },
       {
         title: "공론장 가이드",
@@ -77,8 +77,8 @@ module.exports = {
           ["/sphere/agenda", "의제 선정 및 기획"],
           ["/sphere/debate", "시민참여 공론장"],
           ["/sphere/citizenlab", "실험장"],
-          ["/sphere/suggestion", "찾아가는 시민제안"]
-        ]
+          ["/sphere/suggestion", "찾아가는 시민제안"],
+        ],
       },
       {
         title: "플랫폼 가이드",
@@ -86,12 +86,20 @@ module.exports = {
         children: [
           ["/soft/groups", "빠띠 그룹스"],
           ["/soft/townhall", "빠띠 타운홀"],
-          ["/soft/mix", "빠띠 믹스"]
-        ]
+          ["/soft/mix", "빠띠 믹스"],
+        ],
       },
       ["/tips", "기타 유용한 팁"],
       ["/lab", "빠띠의 실험들"],
-      ["mailto:help@parti.xyz", "문의하기"]
-    ]
-  }
+      ["mailto:help@parti.xyz", "문의하기"],
+    ],
+    plugins: [
+      [
+        "@vuepress/google-analytics",
+        {
+          ga: "G-45P0CRGHTK",
+        },
+      ],
+    ],
+  },
 };

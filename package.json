@@ -1,15 +1,17 @@
 {
   "name": "toolkit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "start": "vuepress dev docs",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "vuepress": "1.4.0"
+    "vuepress": "1.8.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.8.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/parti-coop/toolkit.git"
