@@ -48,7 +48,7 @@ module.exports = {
       {
         title: "시민협력플랫폼 운영가이드",
         collapsable: false,
-        initialOpenGroupIndex: 0,
+        initialOpenGroupIndex: -1,
         children: [
           {
             title: "데모스X 운영가이드",
