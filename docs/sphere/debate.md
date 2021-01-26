@@ -54,10 +54,10 @@
       -  예) [재개발, 재건축시 길고양이를보호조치를 만들면 어떨까요?](https://parti.coop/posts/140)
     - 정책 개발이 완료된 후에 홍보를 하려는 사안인가요?
       -  정책 관련 정보를 전달하고, 시민 의견을 수렴하여 정책 실행시 생길 수 있는 문제를 사전에 예방합니다. 
-      -  예) [긴급 소방 활동을 방해하는 불법주차 차량을 부숴도 될까요?](https://democracy.seoul.go.kr/front/seoulAsk/seoulAskResult.do?sn=184383#) 
+      -  예) [긴급 소방 활동을 방해하는 불법주차 차량을 부숴도 될까요?](https://democracy.seoul.go.kr/front/discussion/detail.do?sn=184383&searchCondition=TITLE&searchCondition2=1&searchCondition3=&searchSYear=&searchKeyword=&sRegDateS=&sRegDateE=&sKind=R&pageIndex=2&sSuggest_divi=) 
     - 정책 개발을 위한 시민 아이데이션이 필요한 사안인가요?
       -  새로운 제도나 정책이 필요한 사안에 대해 시민의 아이디어나 의견을 모읍니다. 공론화의 필요성, 관련 정보와  사례, 우려점 등을 확인합니다.
-      -  예) [시민이 즐겨찾는 광화문 광장, 어떤 공간이 되기를 원하나요?](https://democracy.seoul.go.kr/front/seoulAsk/view.do?sn=185460) 
+      -  예) [시민이 즐겨찾는 광화문 광장, 어떤 공간이 되기를 원하나요?](https://democracy.seoul.go.kr/front/discussion/detail.do?sn=185460&searchCondition=TITLE&searchCondition2=1&searchCondition3=&searchSYear=&searchKeyword=&sRegDateS=&sRegDateE=&sKind=R&pageIndex=2&sSuggest_divi=) 
   - 쟁점이 있어 합의점을 찾거나 해결 방안을 마련해야 하는 주제인가요?
     - 찬반이 뚜렷하거나, 갈등이 첨예한 경우 사안의 사회적 의미를 고려하여 다수의 시민이 토론에 참여할 수 있는 범위로 주제를 정합니다. 
     - 주제와 관련한 정보들을 객관적으로 전달하여 공론장에 참여하는 참여자들이 직접 판단할 수 있는 자리를 마련합니다. 쟁점에 대한 참여자들의 의견확인, 숙의를 통해 합의점이나 해결방안을 마련하는데 도움을 줄 수 있습니다.
@@ -65,7 +65,7 @@
   - 시민의 일상에 영향을 미치는 사안인가요? 
     - 시민들이 살아가고 있는 생활세계 안에서 이뤄지는 일상의 문제들이 이에 해당될 수 있습니다. 
     - 이 주제에 해당하는 경우, 시민들이 문제를 제기하는 내용에 대한 정확한 정보전달, 문제의 원인, 문제해결 공론화 과정을 통해 시민 스스로 해안을 찾을 수 있도록 하는데 기여할 수 있습니다. 
-    - 예) [공공 화장실에 비상용 생리대를 배치하면 어떨까요?](https://democracy.seoul.go.kr/front/seoulAsk/seoulAskResult.do?sn=181520)
+    - 예) [공공 화장실에 비상용 생리대를 배치하면 어떨까요?](https://democracy.seoul.go.kr/front/discussion/detail.do?sn=181520&searchCondition=TITLE&searchCondition2=1&searchCondition3=&searchSYear=&searchKeyword=&sRegDateS=&sRegDateE=&sKind=R&pageIndex=3&sSuggest_divi=)
 
 > **[Tip] 상시적 제안과 토론이 가능한 플랫폼을 이용한 공론장 주제 발굴**
 >  - 행정 기관, 지방자치단체 등 상시적으로 시민이 제안이나 의견을 낼 수 있는 플랫폼을 운영하고 있는 경우를 말합니다.
