@@ -93,13 +93,13 @@ module.exports = {
       ["/lab", "빠띠의 실험들"],
       ["mailto:help@parti.xyz", "문의하기"],
     ],
-    plugins: [
-      [
-        "@vuepress/google-analytics",
-        {
-          ga: "G-45P0CRGHTK",
-        },
-      ],
-    ],
   },
+  plugins: [
+    [
+      "@vuepress/google-analytics",
+      {
+        ga: "G-45P0CRGHTK",
+      },
+    ],
+  ],
 };
