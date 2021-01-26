@@ -116,9 +116,9 @@
 
 ### 오프라인 공론장 예시
 
-- [정책배틀](https://townhall.kr/toolkits/debate_battle)
+- [정책배틀](https://toolkit.parti.coop/soft/townhall.html#%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2)
   - 쟁점이 찬반으로 나뉘어진 경우
-- [시민 브레인스토밍](https://townhall.kr/toolkits/brainstorming) \* 시행을 위한 아이디어가 필요한 경우
+- [시민 브레인스토밍](https://toolkit.parti.coop/soft/townhall.html#%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2) \* 시행을 위한 아이디어가 필요한 경우
 
 > [참고] 민주주의 서울 열린토론회 <재개발,재건축시 길고양이 보호조치를 만들면 어떨까요?>
 >
