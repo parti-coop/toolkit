@@ -125,7 +125,4 @@
 모두가 함께하는 총회를 위해 툴킷을 활용해보세요. 
 2월 중 추가로 업데이트 될 예정입니다.
 
-
-문의나 기여하고 싶은 분은 …
-
-사회적협동조합 빠띠 공론화팀 [townhall@parti.coop](mailto:townhall@parti.coop) (or contact@parti.coop)
+## 온라인 총회에 대해 더 궁금하시다면 [townhall@parti.coop](mailto:townhall@parti.coop) 으로 연락주세요.
