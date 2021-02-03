@@ -89,7 +89,7 @@ module.exports = {
           ["/soft/mix", "빠띠 믹스"],
         ],
       },
-      ["/online_assembly", "온라인 총회"],
+      ["/online_assembly", "온라인 총회 툴킷"],
       ["/tips", "기타 유용한 팁"],
       ["/lab", "빠띠의 실험들"],
       ["mailto:help@parti.xyz", "문의하기"],
