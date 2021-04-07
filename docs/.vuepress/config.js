@@ -30,7 +30,7 @@ module.exports = {
         title: "거버넌스 만들기",
         collapsable: false,
         children: [
-          ["/community/governance.md/", "거버넌스 만들기"],
+          ["/community/governance.md", "거버넌스 만들기"],
         ],
       },
       {
