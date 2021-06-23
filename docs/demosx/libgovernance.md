@@ -501,7 +501,7 @@
         * 장쌤(나들목 가족도서관 사서), 정관장(슈필라움 작은도서관 관장), 옥돌캐기(슈필라움 작은도서관 사서), 성장(제기동 글놀이 도서관 관장), 하루(휘경 어린이 도서관 관장) 
     * 소통 채널: 카카오톡 채팅방
         * 빠르게 의사 소통을 해야 할 때, 간단한 의견이나 사진 등의 간단한 자료를 주고 받을 때 카카오톡 단체 채팅방을 활용했어요.   
-    * 기록과 공유 :[ 빠띠 믹스- 작은도서관 동대문 그룹](https://parti.mx/home?group_id=86), [네이버 카페 서울문화네트워크](https://cafe.naver.com/sharing2019), 구글문서(회의칠판)
+    * 기록과 공유 : [빠띠 믹스- 작은도서관 동대문 그룹](https://parti.mx/86), [네이버 카페 서울문화네트워크](https://cafe.naver.com/sharing2019), 구글문서(회의칠판)
 
 
 |![](https://i.imgur.com/zJA5Bcp.jpg)|![](https://i.imgur.com/ezefm5O.jpg)| 
@@ -639,7 +639,7 @@
         * 관련 이슈 커뮤니티와 지역 커뮤니티에 홍보했습니다.
         * SNS를 이용해 지인들을 대상으로 홍보하고, 전체 메일을 통해 은평구 각 작은도서관들에 홍보했습니다. 
         * 제안글을 게시한 사람이 별도의 링크를 통해 신청 하면 커피 쿠폰을 발송하는 이벤트를 진행하여 제안글 업로드를 독려했습니다. 
-            * [이벤트 공지글 게시](https://https://parti.mx/post/546)    
+            * [이벤트 공지글 게시](https://parti.mx/post/546)    
     * 2020년 9월 8일부터 9월 20일까지의 기간 동안 빠띠 믹스에 총 15개의 시민 제안 글이 올라왔고, 총 97개의 공감 수를 기록했습니다. 
 
 ![](https://i.imgur.com/RGBZPyQ.png)
@@ -755,7 +755,7 @@
 * 길안내 도로 표식 그리기  
     * 경찰서에 승인 요청을 하였으나, 승인을 받지 못해 실행이 불가한 것으로 결론지어졌습니다.   
 * 작은도서관 통합 네트워크 구축 : ‘은평작은도서관사람들'
-    * 은평구 모든 작은도서관을 위한 [통합 네이버카페](https://https://cafe.naver.com/epsmalllibrary)를 개설했습니다.  
+    * 은평구 모든 작은도서관을 위한 [통합 네이버카페](https://cafe.naver.com/epsmalllibrary)를 개설했습니다.  
         * 은평구 작은도서관에 관한 각종 공지사항이나 홍보글을 게시하고, 도서관 이용이나 운영에 관한 정보 공유가 이루어지고 있습니다. 
         * 각 동 별로 게시판 메뉴를 구성하여 해당 동에 속한 작은도서관의 전용 게시판을 개설하도록 운영하고 있습니다.  
         * 각 도서관의 전용 게시판에는 도서관 별 이용정보를 업로드하고, 활동 소식 공유 등이 이루어지고 있습니다. 
@@ -794,18 +794,18 @@
 
 ### [참고자료] 
 * 협력적 커뮤니티 툴킷
-    * [커뮤니티 오거나이저 되기](https://https://toolkit.parti.coop/community/organizer.html#%ED%98%91%EB%A0%A5%EC%A0%81-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%9D%98-%EC%98%A4%EA%B1%B0%EB%82%98%EC%9D%B4%EC%A0%80-organizer-%EB%9E%80)
-    * [커뮤니티 활동 시작하기](https://https://toolkit.parti.coop/community/cowork-start.html#%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%ED%99%9C%EB%8F%99-%EC%8B%9C%EC%9E%91%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%82%A5%EC%98%A4%ED%94%84-%ED%95%98%EA%B8%B0)
-    * [커뮤니티에서 협업하기](https://https://toolkit.parti.coop/community/co-work.html#%EC%99%9C-%ED%98%91%EC%97%85-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
-    * [협력적인 의사결정하기](https://https://toolkit.parti.coop/community/decision-making.html#%EA%B8%B0%EB%B3%B8-%EA%B0%80%EC%9D%B4%EB%93%9C)
+    * [커뮤니티 오거나이저 되기](https://toolkit.parti.coop/community/organizer.html#%ED%98%91%EB%A0%A5%EC%A0%81-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%9D%98-%EC%98%A4%EA%B1%B0%EB%82%98%EC%9D%B4%EC%A0%80-organizer-%EB%9E%80)
+    * [커뮤니티 활동 시작하기](https://toolkit.parti.coop/community/cowork-start.html#%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%ED%99%9C%EB%8F%99-%EC%8B%9C%EC%9E%91%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%82%A5%EC%98%A4%ED%94%84-%ED%95%98%EA%B8%B0)
+    * [커뮤니티에서 협업하기](https://toolkit.parti.coop/community/co-work.html#%EC%99%9C-%ED%98%91%EC%97%85-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
+    * [협력적인 의사결정하기](https://toolkit.parti.coop/community/decision-making.html#%EA%B8%B0%EB%B3%B8-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * 공론장 가이드
-    * [시민제안 워크숍 ](https://https://toolkit.parti.coop/sphere/workshop.html#_1-%EC%86%8C%EA%B0%9C)
-    * [의제선정 및 기획](https://https://toolkit.parti.coop/sphere/agenda.html)
-    * [시민참여 공론장 ](https://https://toolkit.parti.coop/sphere/debate.html)
+    * [시민제안 워크숍](https://toolkit.parti.coop/sphere/workshop.html#_1-%EC%86%8C%EA%B0%9C)
+    * [의제선정 및 기획](https://toolkit.parti.coop/sphere/agenda.html)
+    * [시민참여 공론장](https://toolkit.parti.coop/sphere/debate.html)
 * 빠띠 믹스 
-    * [빠띠 믹스 이용자 매뉴얼](https://https://toolkit.parti.coop/soft/mix.html) 
-    * [ 작은도서관 거버넌스-은평](https://https://parti.mx/home?group_id=87) 
-    * [작은도서관 거버넌스-동대문](https://https://parti.mx/home?group_id=86)
+    * [빠띠 믹스 이용자 매뉴얼](https://parti.mx/post/u1j3xFP2gjJ8MqXtkES8) 
+    * [작은도서관 거버넌스-은평](https://parti.mx/87) 
+    * [작은도서관 거버넌스-동대문](https://parti.mx/86)
 
 ### 빠띠는?
 빠띠는 더 민주적인 세상을 만들기 위해 필요한 가이드를 시민과 함께 만들어 갑니다
